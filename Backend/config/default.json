@@ -1,0 +1,6 @@
+{
+    "db" : "mongodb://localhost/mad" ,
+    "jwtPrivateKey" :"someprivatekey"
+
+
+}
