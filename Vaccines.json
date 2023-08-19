@@ -1,0 +1,172 @@
+{
+    "ageIntervals": [
+      {
+        "interval": "Birth to 9 years",
+        "vaccines": [
+          {
+            "vaccine": "Hepatitis B",
+            "doses": ["0", "1-2", "6-18 months"]
+          },
+          {
+            "vaccine": "DTaP",
+            "doses": ["2", "4", "6", "15-18 months", "4-6 years"]
+          },
+          {
+            "vaccine": "Hib",
+            "doses": ["2", "4", "6", "12-15 months"]
+          },
+          {
+            "vaccine": "Polio",
+            "doses": ["2", "4", "6-18 months", "4-6 years"]
+          },
+          {
+            "vaccine": "MMR",
+            "doses": ["12-15 months", "4-6 years"]
+          },
+          {
+            "vaccine": "Varicella",
+            "doses": ["12-15 months", "4-8 weeks after 1st dose"]
+          },
+          {
+            "vaccine": "Influenza",
+            "doses": ["Annually"]
+          }
+        ]
+      },
+      {
+        "interval": "10 to 19 years",
+        "vaccines": [
+          {
+            "vaccine": "Tdap",
+            "doses": ["11-12 years"]
+          },
+          {
+            "vaccine": "HPV",
+            "doses": ["11-12 years", "6-12 months apart"]
+          },
+          {
+            "vaccine": "Meningococcal",
+            "doses": ["11-12 years", "16 years"]
+          },
+          {
+            "vaccine": "Influenza",
+            "doses": ["Annually"]
+          },
+          {
+            "vaccine": "Varicella",
+            "doses": ["2 doses if not previously vaccinated"]
+          },
+          {
+            "vaccine": "COVID-19",
+            "doses": ["According to current CDC recommendations"]
+          }
+        ]
+      },
+      {
+        "interval": "20 to 26 years",
+        "vaccines": [
+          {
+            "vaccine": "Tdap",
+            "doses": ["Once"]
+          },
+          {
+            "vaccine": "HPV",
+            "doses": ["20-26 years", "6-12 months apart"]
+          },
+          {
+            "vaccine": "Meningococcal",
+            "doses": ["16-23 years"]
+          },
+          {
+            "vaccine": "Influenza",
+            "doses": ["Annually"]
+          },
+          {
+            "vaccine": "COVID-19",
+            "doses": ["According to current CDC recommendations"]
+          }
+        ]
+      },
+      {
+        "interval": "27 to 36 years",
+        "vaccines": [
+          {
+            "vaccine": "Tdap",
+            "doses": ["Once"]
+          },
+          {
+            "vaccine": "HPV",
+            "doses": ["27-45 years", "6-12 months apart"]
+          },
+          {
+            "vaccine": "Influenza",
+            "doses": ["Annually"]
+          },
+          {
+            "vaccine": "COVID-19",
+            "doses": ["According to current CDC recommendations"]
+          }
+        ]
+      },
+      {
+        "interval": "37 to 46 years",
+        "vaccines": [
+          {
+            "vaccine": "Tdap",
+            "doses": ["Once"]
+          },
+          {
+            "vaccine": "HPV",
+            "doses": ["27-45 years", "6-12 months apart"]
+          },
+          {
+            "vaccine": "Influenza",
+            "doses": ["Annually"]
+          },
+          {
+            "vaccine": "Shingles (Varicella-Zoster)",
+            "doses": ["2 doses"]
+          }
+        ]
+      },
+      {
+        "interval": "47 to 56 years",
+        "vaccines": [
+          {
+            "vaccine": "Tdap",
+            "doses": ["Once"]
+          },
+          {
+            "vaccine": "Influenza",
+            "doses": ["Annually"]
+          },
+          {
+            "vaccine": "Shingles (Varicella-Zoster)",
+            "doses": ["2 doses"]
+          }
+        ]
+      },
+      {
+        "interval": "Older than 57 years",
+        "vaccines": [
+          {
+            "vaccine": "Tdap",
+            "doses": ["Once"]
+          },
+          {
+            "vaccine": "Influenza",
+            "doses": ["Annually"]
+          },
+          {
+            "vaccine": "Shingles (Varicella-Zoster)",
+            "doses": ["2 doses"]
+          },
+          {
+            "vaccine": "Pneumococcal",
+            "doses": ["1-2 doses depending on previous vaccination history"]
+          }
+        ]
+      }
+    ]
+  }
+  
