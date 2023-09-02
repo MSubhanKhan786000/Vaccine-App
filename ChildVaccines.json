@@ -1,0 +1,106 @@
+{
+    "vaccines": [
+      {
+        "disease": "Childhood TB",
+        "causative_agent": "Bacteria",
+        "vaccine": "BCG",
+        "doses": 1,
+        "age_of_administration": "Soon after birth"
+      },
+      {
+        "disease": "Poliomyelitis",
+        "causative_agent": "Virus",
+        "vaccine": "OPV",
+        "doses": 4,
+        "age_of_administration": [
+          "OPV0: Soon after birth",
+          "OPV1: 6 weeks",
+          "OPV2: 10 weeks",
+          "OPV3: 14 weeks"
+        ]
+      },
+      {
+        "disease": "Poliomyelitis",
+        "causative_agent": "Virus",
+        "vaccine": "IPV",
+        "doses": 1,
+        "age_of_administration": "IPV-I: 14 weeks"
+      },
+      {
+        "disease": "Diphtheria",
+        "causative_agent": "Bacteria",
+        "vaccine": "Pentavalent vaccine (DTP+Hep B + Hib)",
+        "doses": 3,
+        "age_of_administration": [
+          "Penta1: 6 weeks",
+          "Penta2: 10 weeks",
+          "Penta3: 14 weeks"
+        ]
+      },
+      {
+        "disease": "Tetanus",
+        "causative_agent": "Bacteria",
+        "vaccine": "Pentavalent vaccine (DTP+Hep B + Hib)",
+        "doses": 3,
+        "age_of_administration": [
+          "Penta1: 6 weeks",
+          "Penta2: 10 weeks",
+          "Penta3: 14 weeks"
+        ]
+      },
+      {
+        "disease": "Pertussis",
+        "causative_agent": "Bacteria",
+        "vaccine": "Pentavalent vaccine (DTP+Hep B + Hib)",
+        "doses": 3,
+        "age_of_administration": [
+          "Penta1: 6 weeks",
+          "Penta2: 10 weeks",
+          "Penta3: 14 weeks"
+        ]
+      },
+      {
+        "disease": "Hepatitis B",
+        "causative_agent": "Virus",
+        "vaccine": "Pentavalent vaccine (DTP+Hep B + Hib)",
+        "doses": 3,
+        "age_of_administration": [
+          "Penta1: 6 weeks",
+          "Penta2: 10 weeks",
+          "Penta3: 14 weeks"
+        ]
+      },
+      {
+        "disease": "Hib pneumonia and meningitis",
+        "causative_agent": "Bacteria",
+        "vaccine": "Pentavalent vaccine (DTP+Hep B + Hib)",
+        "doses": 3,
+        "age_of_administration": [
+          "Penta1: 6 weeks",
+          "Penta2: 10 weeks",
+          "Penta3: 14 weeks"
+        ]
+      },
+      {
+        "disease": "Measles",
+        "causative_agent": "Virus",
+        "vaccine": "Measles",
+        "doses": 2,
+        "age_of_administration": [
+          "Measles1: 9 months",
+          "Measles2: 15 months"
+        ]
+      },
+      {
+        "disease": "Diarrhoea due to rotavirus",
+        "causative_agent": "Virus",
+        "vaccine": "Rotavirus",
+        "doses": 2,
+        "age_of_administration": [
+          "Rota 1: 6 weeks",
+          "Rota 2: 10 weeks"
+        ]
+      }
+    ]
+  }
+  
