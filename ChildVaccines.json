@@ -82,16 +82,6 @@
         ]
       },
       {
-        "disease": "Measles",
-        "causative_agent": "Virus",
-        "vaccine": "Measles",
-        "doses": 2,
-        "age_of_administration": [
-          "Measles1: 9 months",
-          "Measles2: 15 months"
-        ]
-      },
-      {
         "disease": "Diarrhoea due to rotavirus",
         "causative_agent": "Virus",
         "vaccine": "Rotavirus",
@@ -99,6 +89,16 @@
         "age_of_administration": [
           "Rota 1: 6 weeks",
           "Rota 2: 10 weeks"
+        ]
+      },
+      {
+        "disease": "Measles",
+        "causative_agent": "Virus",
+        "vaccine": "Measles",
+        "doses": 2,
+        "age_of_administration": [
+          "Measles1: 9 months",
+          "Measles2: 15 months"
         ]
       }
     ]
