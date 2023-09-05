@@ -1,0 +1,173 @@
+{
+    "diseases": [
+      "TB",
+      "Hepatitis",
+      "Diphtheria",
+      "Pertussis",
+      "Meningitis",
+      "Pneumonia",
+      "Polio",
+      "Rotavirus",
+      "H. Influenza",
+      "Measles"
+    ],
+    "total_visits": 6,
+    "visits": [
+      {
+        "visit_number": 1,
+        "age": "At Birth",
+        "vaccines_given": [
+          {
+            "vaccine": "BCG",
+            "description": "The Bacille Calmette-Guérin (BCG) vaccine is administered to protect against tuberculosis (TB).",
+            "administration": "Injected on right arm",
+            "side_effects_given": "Common side effects when BCG vaccine is given may include redness, swelling, or a small sore at the injection site. Rarely, more serious side effects can occur.",
+            "side_effects_not_given": "Without the BCG vaccine, the child is at higher risk of developing tuberculosis (TB) and its complications, which can be life-threatening."
+          },
+          {
+            "vaccine": "OPV 0",
+            "description": "The Oral Polio Vaccine (OPV) 0 is given orally to provide protection against polio.",
+            "administration": "Given orally",
+            "side_effects_given": "Common side effects of OPV may include mild fever or gastrointestinal symptoms. Serious side effects are rare.",
+            "side_effects_not_given": "Without OPV, the child is at risk of contracting polio, a highly infectious disease that can lead to paralysis."
+          },
+          {
+            "vaccine": "Hepatitis B",
+            "description": "The Hepatitis B vaccine is administered by injection on the left thigh under the skin. It offers protection against Hepatitis B.",
+            "administration": "Injected on left thigh under the skin",
+            "side_effects_given": "Common side effects of the Hepatitis B vaccine may include pain or swelling at the injection site. Serious side effects are rare.",
+            "side_effects_not_given": "Without the Hepatitis B vaccine, the child is at risk of contracting Hepatitis B, a viral infection that can lead to liver disease."
+          }
+        ]
+      },
+      {
+        "visit_number": 2,
+        "age": "6 weeks",
+        "vaccines_given": [
+          {
+            "vaccine": "OPV 1",
+            "description": "The Oral Polio Vaccine (OPV) 1 is given orally to protect against polio.",
+            "administration": "Given orally",
+            "side_effects_given": "Common side effects of OPV may include mild fever or gastrointestinal symptoms. Serious side effects are rare.",
+            "side_effects_not_given": "Without OPV, the child is at risk of contracting polio, a highly infectious disease that can lead to paralysis."
+          },
+          {
+            "vaccine": "Rotavirus-1",
+            "description": "The Rotavirus-1 vaccine is administered orally to guard against Rotavirus infection.",
+            "administration": "Given orally",
+            "side_effects_given": "Common side effects of the Rotavirus vaccine may include mild diarrhea or vomiting. Serious side effects are rare.",
+            "side_effects_not_given": "Without the Rotavirus vaccine, the child is at risk of severe diarrhea and dehydration caused by Rotavirus infection."
+          },
+          {
+            "vaccine": "Pneumococcal-1",
+            "description": "The Pneumococcal-1 vaccine is injected in the left thigh to protect against certain bacterial infections, such as pneumonia and meningitis.",
+            "administration": "Injected on left thigh",
+            "side_effects_given": "Common side effects of the Pneumococcal vaccine may include pain or redness at the injection site. Serious side effects are rare.",
+            "side_effects_not_given": "Without the Pneumococcal vaccine, the child is at risk of severe bacterial infections like pneumonia and meningitis."
+          },
+          {
+            "vaccine": "Pentavalent-1",
+            "description": "The Pentavalent-1 vaccine is administered via injection in the right thigh. It provides protection against five potential killers: Diphtheria, Tetanus, Pertussis, Hib, and Hepatitis B.",
+            "administration": "Injected on right thigh",
+            "side_effects_given": "Common side effects of the Pentavalent vaccine may include pain or swelling at the injection site. Serious side effects are rare.",
+            "side_effects_not_given": "Without the Pentavalent vaccine, the child is at risk of multiple potentially life-threatening diseases."
+          }
+        ]
+      },
+      {
+        "visit_number": 3,
+        "age": "10 weeks",
+        "vaccines_given": [
+          {
+            "vaccine": "OPV 2",
+            "description": "The Oral Polio Vaccine (OPV) 2 is administered orally to safeguard against polio.",
+            "administration": "Given orally",
+            "side_effects_given": "Common side effects of OPV may include mild fever or gastrointestinal symptoms. Serious side effects are rare.",
+            "side_effects_not_given": "Without OPV, the child is at risk of contracting polio, a highly infectious disease that can lead to paralysis."
+          },
+          {
+            "vaccine": "Rotavirus-2",
+            "description": "The Rotavirus-2 vaccine is given orally to provide immunity against Rotavirus infection.",
+            "administration": "Given orally",
+            "side_effects_given": "Common side effects of the Rotavirus vaccine may include mild diarrhea or vomiting. Serious side effects are rare.",
+            "side_effects_not_given": "Without the Rotavirus vaccine, the child is at risk of severe diarrhea and dehydration caused by Rotavirus infection."
+          },
+          {
+            "vaccine": "Pneumococcal-2",
+            "description": "The Pneumococcal-2 vaccine is injected in the left thigh to protect against certain bacterial infections, such as pneumonia and meningitis.",
+            "administration": "Injected on left thigh",
+            "side_effects_given": "Common side effects of the Pneumococcal vaccine may include pain or redness at the injection site. Serious side effects are rare.",
+            "side_effects_not_given": "Without the Pneumococcal vaccine, the child is at risk of severe bacterial infections like pneumonia and meningitis."
+          },
+          {
+            "vaccine": "Pentavalent-2",
+            "description": "The Pentavalent-2 vaccine is administered via injection in the right thigh. It offers protection against five potential killers: Diphtheria, Tetanus, Pertussis, Hib, and Hepatitis B.",
+            "administration": "Injected on right thigh",
+            "side_effects_given": "Common side effects of the Pentavalent vaccine may include pain or swelling at the injection site. Serious side effects are rare.",
+            "side_effects_not_given": "Without the Pentavalent vaccine, the child is at risk of multiple potentially life-threatening diseases."
+          }
+        ]
+      },
+      {
+        "visit_number": 4,
+        "age": "14 weeks",
+        "vaccines_given": [
+          {
+            "vaccine": "OPV 3",
+            "description": "The Oral Polio Vaccine (OPV) 3 is given orally to ensure protection against polio.",
+            "administration": "Given orally",
+            "side_effects_given": "Common side effects of OPV may include mild fever or gastrointestinal symptoms. Serious side effects are rare.",
+            "side_effects_not_given": "Without OPV, the child is at risk of contracting polio, a highly infectious disease that can lead to paralysis."
+          },
+          {
+            "vaccine": "IPV Inactivated Poliovirus Vaccine",
+            "description": "The IPV (Inactivated Poliovirus Vaccine) is injected in the left thigh and protects against severe disease caused by poliovirus.",
+            "administration": "Injected on left thigh",
+            "side_effects_given": "Common side effects of the IPV vaccine may include pain or redness at the injection site. Serious side effects are rare.",
+            "side_effects_not_given": "Without the IPV vaccine, the child is at risk of severe poliovirus infection and its complications."
+          },
+          {
+            "vaccine": "Pneumococcal-3",
+            "description": "The Pneumococcal-3 vaccine is administered via injection in the left thigh to guard against certain bacterial infections, such as pneumonia and meningitis.",
+            "administration": "Injected on left thigh",
+            "side_effects_given": "Common side effects of the Pneumococcal vaccine may include pain or redness at the injection site. Serious side effects are rare.",
+            "side_effects_not_given": "Without the Pneumococcal vaccine, the child is at risk of severe bacterial infections like pneumonia and meningitis."
+          },
+          {
+            "vaccine": "Pentavalent-3",
+            "description": "The Pentavalent-3 vaccine is given via injection in the right thigh. It provides protection against five potential killers: Diphtheria, Tetanus, Pertussis, Hib, and Hepatitis B.",
+            "administration": "Injected on right thigh",
+            "side_effects_given": "Common side effects of the Pentavalent vaccine may include pain or swelling at the injection site. Serious side effects are rare.",
+            "side_effects_not_given": "Without the Pentavalent vaccine, the child is at risk of multiple potentially life-threatening diseases."
+          }
+        ]
+      },
+      {
+        "visit_number": 5,
+        "age": "9 months",
+        "vaccines_given": [
+          {
+            "vaccine": "Measles-1",
+            "description": "The Measles-1 vaccine is administered via injection in the left upper arm. It protects against three diseases: Measles, Mumps, and Rubella.",
+            "administration": "Injected on left upper-arm",
+            "side_effects_given": "Common side effects of the Measles vaccine may include fever, rash, or mild discomfort. Serious side effects are rare.",
+            "side_effects_not_given": "Without the Measles vaccine, the child is at risk of contracting Measles, a highly contagious viral infection."
+          }
+        ]
+      },
+      {
+        "visit_number": 6,
+        "age": "15 months",
+        "vaccines_given": [
+          {
+            "vaccine": "Measles-2",
+            "description": "The Measles-2 vaccine is given via injection in the left upper arm. It provides protection against three diseases: Measles, Mumps, and Rubella.",
+            "administration": "Injected on left upper-arm",
+            "side_effects_given": "Common side effects of the Measles vaccine may include fever, rash, or mild discomfort. Serious side effects are rare.",
+            "side_effects_not_given": "Without the Measles vaccine, the child is at risk of contracting Measles, a highly contagious viral infection."
+          }
+        ]
+      }
+    ]
+  }
+  
