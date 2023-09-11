@@ -1,6 +1,6 @@
-import { createMaterialBottomTabNavigator } from '@react-navigation/material-bottom-tabs';
-import Homedelivery from './Homedelivery';
-import Extra1 from './extacomponent';
+import { createMaterialBottomTabNavigator } from "@react-navigation/material-bottom-tabs";
+import Homedelivery from "./Homedelivery";
+import Extra1 from "./extacomponent";
 // import Login from '../Login';
 
 const Tab = createMaterialBottomTabNavigator();
@@ -13,6 +13,5 @@ function DeliveryBottomNavigation() {
     </Tab.Navigator>
   );
 }
-
 
 export default DeliveryBottomNavigation;
